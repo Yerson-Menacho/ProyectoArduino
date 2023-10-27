@@ -1,0 +1,10 @@
+D:\PROYECTOS\C#\SERIAL COMUNICACION ARDUINO\ProyectoArduino\ProyectoArduino\bin\Debug\ProyectoArduino.exe.config
+D:\PROYECTOS\C#\SERIAL COMUNICACION ARDUINO\ProyectoArduino\ProyectoArduino\bin\Debug\ProyectoArduino.exe
+D:\PROYECTOS\C#\SERIAL COMUNICACION ARDUINO\ProyectoArduino\ProyectoArduino\bin\Debug\ProyectoArduino.pdb
+D:\PROYECTOS\C#\SERIAL COMUNICACION ARDUINO\ProyectoArduino\ProyectoArduino\obj\Debug\ProyectoArduino.csproj.AssemblyReference.cache
+D:\PROYECTOS\C#\SERIAL COMUNICACION ARDUINO\ProyectoArduino\ProyectoArduino\obj\Debug\ProyectoArduino.Form1.resources
+D:\PROYECTOS\C#\SERIAL COMUNICACION ARDUINO\ProyectoArduino\ProyectoArduino\obj\Debug\ProyectoArduino.Properties.Resources.resources
+D:\PROYECTOS\C#\SERIAL COMUNICACION ARDUINO\ProyectoArduino\ProyectoArduino\obj\Debug\ProyectoArduino.csproj.GenerateResource.cache
+D:\PROYECTOS\C#\SERIAL COMUNICACION ARDUINO\ProyectoArduino\ProyectoArduino\obj\Debug\ProyectoArduino.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\C#\SERIAL COMUNICACION ARDUINO\ProyectoArduino\ProyectoArduino\obj\Debug\ProyectoArduino.exe
+D:\PROYECTOS\C#\SERIAL COMUNICACION ARDUINO\ProyectoArduino\ProyectoArduino\obj\Debug\ProyectoArduino.pdb
